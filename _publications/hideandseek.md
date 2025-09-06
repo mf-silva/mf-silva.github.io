@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/hideandseek.md
 excerpt: 'We study sharpness for transformers and the effect that the attention mechanism symmetries has on the link betwween sharpness and generalization.'
-date: 2024-02-17
+date: 2025-06-10
 venue: 'ICML (Spotlight Poster)'
 paperurl: 'https://openreview.net/pdf?id=5QAKPBVdFH'
 ---
