@@ -14,6 +14,9 @@ Why geometry matters for deep learning
 ======
 
 Problems once thought to be hopelessly high-dimensional (and hence afflicted with the curse of dimensionality) turn out to be tractable when we combine large-scale compute with just two algorithmic ideas: a) representation learning, where networks discover hierarchical features that capture the right regularities for each task; b) local optimization through gradient descent. The main question I am interested in is: why does this work at all?
-My hope is that geometry offers an unifying language to understand this. Real-world tasks and architectures are structured, not generic. And this structure can be understood through geometry. Data concentrate on low-dimensional manifolds (the manifold hypothesis); parameters live in spaces with symmetries and constraints; optimization trajectory flow on curved surfaces; and generalization depends on the local and global shape of the loss. Getting a firmer grasp on these geometric structures is a path to models that are robust, sample-efficient, and performant.
+
+My hope is that geometry offers an unifying language to understand this. Real-world tasks and architectures are structured, not generic. And this structure can be understood through geometry. Data concentrate on low-dimensional manifolds (the manifold hypothesis); parameters live in spaces with symmetries and constraints; optimization trajectory flow on curved surfaces; and generalization depends on the local and global shape of the loss. 
+
+Getting a firmer grasp on these geometric structures is a path to models that are robust, sample-efficient, and performant.
 
 **If this seems interesting to you, feel free to send me an e-mail; I am always looking for collaborators!**
