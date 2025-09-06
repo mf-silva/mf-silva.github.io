@@ -49,9 +49,7 @@ Publications
 
 **Researcher at CRACS-INESC TEC** May 2016 – Sept. 2016  
 - Project: “Learning From Replicated Examples"  
-- Work on improving classification performance in Machine Learning by leveraging replicated experi-
-
-  ments.  
+- Work on improving classification performance in Machine Learning by leveraging replicated experiments.  
 - Supervisor: Dr. Vítor Santos Costa (University of Porto)
 
 **Perimeter Scholars Essay** Dec. 2014 – Jul. 2015  
@@ -62,9 +60,7 @@ Publications
 
 **Undergraduate Researcher at CAUP** Dec. 2011 – Jul. 2014  
 - Project: “Spatial variations of the fine-structure constant in symmetron models"  
-- Conducted N-Body computer simulations on a modified gravity theory which predicts a varying fine-
-
-  structure constant, in order to conclude about its viability (taking into account experimental data).  
+- Conducted N-Body computer simulations on a modified gravity theory which predicts a varying fine-structure constant, in order to conclude about its viability (taking into account experimental data).  
 - Supervisor: Carlos J.A.P Martins (Centre for Astrophysics of the University of Porto)
 
 ## TEACHING EXPERIENCE
