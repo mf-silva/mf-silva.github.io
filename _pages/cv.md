@@ -44,9 +44,7 @@ Publications
 
 **Master thesis at the Weizmann Institute of Science** Oct. 2017 – May. 2019  
 - Project: “A model for pulsar magnetospheres"  
-- Through the use of numerical simulations, check the Gruzinov model of the pulsar magnetosphere
-
-  against experimental observation, taking advantage of data from LAT.  
+- Through the use of numerical simulations, check the Gruzinov model of the pulsar magnetosphere against experimental observation, taking advantage of data from LAT.  
 - Supervisor: Dr. Doron Kushnir (Weizmann Institute of Science)
 
 **Researcher at CRACS-INESC TEC** May 2016 – Sept. 2016  
@@ -58,12 +56,8 @@ Publications
 
 **Perimeter Scholars Essay** Dec. 2014 – Jul. 2015  
 - Project: “New KLT Relations"
-
-
-
 - Work on the scattering of massless particles: investigating some results offered by the rethinking of
   arbitrarily dimensional scattering of massless particles in terms of variables in a n-punctured sphere.
-
 - Supervisor: Dr. Freddy Cachazo (Perimeter Institute for Theoretical Physics)
 
 **Undergraduate Researcher at CAUP** Dec. 2011 – Jul. 2014  
@@ -76,12 +70,8 @@ Publications
 ## TEACHING EXPERIENCE
 
 **Mentor at the Porto Business School** Apr. 2023 – Present  
-- Mentored groups of 4-5 post-graduate students in the execution of a data science project using the
-
-  CRISP-DM methodology and industry provided data.  
-- Provided guidance on specific machine learning methods, and how best to tailor them to the data
-
-  science project undertaken by the students.
+- Mentored groups of 4-5 post-graduate students in the execution of a data science project using the CRISP-DM methodology and industry provided data.  
+- Provided guidance on specific machine learning methods, and how best to tailor them to the data science project undertaken by the students.
 
 **Teaching Assistant for CSCI 1109 (Practical Data Science) at Dalhousie University** Sep. 2022 – Apr. 2023  
 - Delivered introductory lectures on Python.  
@@ -90,18 +80,12 @@ Publications
 **Teaching Assistant and Marker for CSCI 6516 (Deep Learning) at Dalhousie University** May – Aug. 2022  
 - Presented some lectures on introductory neural training dynamics.  
 - Devised tutorials to reinforce material covered by the lectures of the main instructor.  
-- Created assignments to both test student knowledge and engage them in a process of guided discovery,
-
-  distilling some research papers into assignments incentivizing critical thinking.  
+- Created assignments to both test student knowledge and engage them in a process of guided discovery, distilling some research papers into assignments incentivizing critical thinking.  
 - Marked assignments and research paper presentations.
 
 **Head Teaching Assistant and Marker for CSCI 4155/6505 (Machine Learning) at Dalhousie University** Jan.
 – May. 2022
 
 - Helped develop material for lectures.  
-- Created assignments to both test student knowledge and engage them in a process of guided discovery,
-
-  scaffolding assignments in order to facilitate learning.  
-- Both marked assignments and complex project submissions, and helped coordinate markers and other
-
-  TAs.
+- Created assignments to both test student knowledge and engage them in a process of guided discovery, scaffolding assignments in order to facilitate learning.  
+- Both marked assignments and complex project submissions, and helped coordinate markers and other TAs.
