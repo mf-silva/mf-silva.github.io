@@ -2,7 +2,7 @@
 title: "Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It"
 collection: publications
 category: conferences
-permalink: /publications/hideandseek.md
+permalink: /publications/hideandseek
 excerpt: 'We study sharpness for transformers and the effect that the attention mechanism symmetries has on the link betwween sharpness and generalization.'
 date: 2025-06-10
 venue: 'ICML (Spotlight Poster)'
